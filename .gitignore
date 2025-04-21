@@ -1,0 +1,15 @@
+
+.DS_Store
+node_modules/
+package-lock.json
+yarn-error.log
+yarn.lock
+dist/
+coverage/
+.vscode/
+.DS_Store
+bun.lock
+bun.lockb
+*.tgz
+*.tgz
+*.zip
